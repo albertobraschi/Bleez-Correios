@@ -1,6 +1,6 @@
-Atualização dos codigos de sedex e pac, com e sem contratos. 
+Atualização dos códigos de sedex e pac, com e sem contratos. 
 
-Atualização da dependencia tcesarpinho/php-sigep para stavarengo/php-sigep.
+Atualização das dependências tcesarpinho/php-sigep para stavarengo/php-sigep.
 
 1. app/code/Bleez/Correios
 
@@ -12,8 +12,11 @@ Atualização da dependencia tcesarpinho/php-sigep para stavarengo/php-sigep.
         "cagartner/phpquery": ">=0.9.8"
     }
 
-3. ligando o modulo: php bin/magento module:enable Bleez_Correios   
+3. Habilitando o módulo: php bin/magento module:enable Bleez_Correios   
 
+Testado na versão 2.1.2
+
+------
 
 # Bleez Correios
 
