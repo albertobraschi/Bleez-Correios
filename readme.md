@@ -1,4 +1,4 @@
-Atualização dos códigos de sedex e pac, com e sem contratos. 
+Atualização dos códigos de sedex e pac, com e sem contrato. 
 
 Atualização das dependências tcesarpinho/php-sigep para stavarengo/php-sigep.
 
